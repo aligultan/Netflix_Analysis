@@ -1,0 +1,88 @@
+Toplam 86 ülke bulundu.
+
+- Argentina
+- Australia
+- Austria
+- Bangladesh
+- Belarus
+- Belgium
+- Brazil
+- Bulgaria
+- Cambodia
+- Cameroon
+- Canada
+- Chile
+- China
+- Colombia
+- Croatia
+- Cyprus
+- Czech Republic
+- Denmark
+- Egypt
+- Finland
+- France
+- Georgia
+- Germany
+- Ghana
+- Greece
+- Guatemala
+- Hong Kong
+- Hungary
+- Iceland
+- India
+- Indonesia
+- Iran
+- Ireland
+- Israel
+- Italy
+- Jamaica
+- Japan
+- Jordan
+- Kenya
+- Kuwait
+- Lebanon
+- Luxembourg
+- Malaysia
+- Mauritius
+- Mexico
+- Mozambique
+- Namibia
+- Netherlands
+- New Zealand
+- Nigeria
+- Norway
+- Not Given
+- Pakistan
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Puerto Rico
+- Romania
+- Russia
+- Saudi Arabia
+- Senegal
+- Serbia
+- Singapore
+- Slovenia
+- Somalia
+- South Africa
+- South Korea
+- Soviet Union
+- Spain
+- Sweden
+- Switzerland
+- Syria
+- Taiwan
+- Thailand
+- Turkey
+- Ukraine
+- United Arab Emirates
+- United Kingdom
+- United States
+- Uruguay
+- Venezuela
+- Vietnam
+- West Germany
+- Zimbabwe
